@@ -1,1 +1,1 @@
-# LinuxTraining
+# Репозиторий для курса по Linux на GB
